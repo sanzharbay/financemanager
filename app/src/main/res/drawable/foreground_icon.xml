@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset
+            android:drawable="@drawable/_634993_coins_arrows_coin_financial_money_icon"
+
+            android:insetTop="25%"
+            android:insetBottom="25%"
+            android:insetLeft="25%"
+            android:insetRight="25%" />
+    </item>
+</layer-list>

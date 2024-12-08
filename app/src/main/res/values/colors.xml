@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color -->
+    <color name="primaryColor">#6200EE</color>
+    <!-- Darker variant of the primary color -->
+    <color name="primaryColorDark">#3700B3</color>
+    <!-- Accent color for highlights and accents -->
+    <color name="accentColor">#FFEB3B</color>
+    <!-- Background color for the app -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="darkBackgroundColor">#505050</color>
+    <!-- Surface color for components like cards and menus -->
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="darkSurfaceColor">#505050</color>
+    <!-- Primary text color -->
+    <color name="primaryTextColor">#000000</color>
+    <color name="darkPrimaryTextColor">#FFFFFF</color>
+    <!-- Secondary text color -->
+    <color name="secondaryTextColor">#757575</color>
+    <!-- Window background color -->
+    <color name="windowBackgroundColor">#FFFFFF</color>
+    <!-- Status bar color -->
+    <color name="statusBarColor">@color/primaryColor</color>
+    <!-- Navigation bar color -->
+    <color name="navigationBarColor">#6200EE</color>
+    <!-- Off white color for icons or other elements -->
+    <color name="off_white">#F0F0F0</color>
+    <color name="off_black">#202020</color>
+    <!-- Light primary text color -->
+    <color name="light_primary_text">#BDBDBD</color>
+    <!-- Example additional colors -->
+    <color name="errorColor">#B00020</color>
+    <color name="warningColor">#FFAB00</color>
+    <color name="successColor">#00C853</color>
+
+    <color name="cardBackgroundColor">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="selectedItem">#4CAF50</color>
+
+    <color name="senderMessageColor">#4CAF50</color>
+    <color name="receiverMessageColor">#585858</color>
+
+    <color name="datePickerHeaderBackground">@color/primaryColor</color>
+    <color name="datePickerHeaderText">#FFFFFF</color>
+    <color name="datePickerSelection">@color/successColor</color>
+</resources>

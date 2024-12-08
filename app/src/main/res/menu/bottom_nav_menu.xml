@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/_665531_house_icon"/>
+    <item
+        android:id="@+id/qrcode"
+        android:title="@string/qrcode"
+        android:icon="@drawable/_042901_qr_code_icon"/>
+    <item
+        android:id="@+id/chat"
+        android:title="@string/messages"
+        android:icon="@drawable/_665220_comments_dollar_icon"/>
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/_665306_circle_user_icon"/>
+</menu>

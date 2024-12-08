@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061777348905",
+    "project_id": "finance-manager-sanzhar",
+    "storage_bucket": "finance-manager-sanzhar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061777348905:android:6105f45e3d09de630d3f38",
+        "android_client_info": {
+          "package_name": "com.example.financemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxj2yjWXrqXsdkLWUMgaBGKovWb2qYe5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

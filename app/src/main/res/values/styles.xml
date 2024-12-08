@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Style for the CardView -->
+    <style name="MyCardViewStyle">
+        <item name="cardCornerRadius">15dp</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <!-- Style for the ImageView inside the CardView -->
+    <style name="MyImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="backgroundTint">#00000000</item>
+        <item name="android:tint">#808080</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+
+    <!-- Style for the TextView inside the CardView -->
+    <style name="MyTextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/app_name</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CircleShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="CustomDatePickerDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/datePickerHeaderBackground</item>
+        <item name="colorPrimaryDark">@color/datePickerHeaderBackground</item>
+        <item name="colorAccent">@color/datePickerSelection</item>
+    </style>
+</resources>
